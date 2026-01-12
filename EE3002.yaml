@@ -1,0 +1,39 @@
+# 歧义：提交者 "SSC" 在 "关于考试" 部分末尾提及，不确定其贡献范围。本转换假定该提交者贡献了教师评价、考试信息等所有无明确署名的内容。
+course_name: "电力电子技术"
+course_code: "EE3002"
+notices: ""
+grading:
+  0000: "实验(20%) + 期中考试(20%) + 期末考试(60%)"
+teachers:
+  - name: "王明彦"
+    reviews:
+      - content: "讲课一般，经常讲一大堆别的东西之后再开始上课。十分注重考勤，但是没有平时分。"
+        submitter:
+          name: "SSC"
+          link: "https://github.com/SSC202"
+  - name: "李成睿"
+    reviews:
+      - content: "……"
+        submitter:
+          name: "SSC"
+          link: "https://github.com/SSC202"
+  - name: "王丹丹"
+    reviews:
+      - content: |
+          实验教师。
+          实验报告要求十分高（毕设级别要求），很难拿分，建议十分认真的写。
+        submitter:
+          name: "SSC"
+          link: "https://github.com/SSC202"
+textbooks: []
+online_resources: []
+about_course: []
+about_exam:
+  - content: "考试基本是大背诵的概念题，但是需要注意细节，PPT 建议反复看。"
+    submitter:
+      name: "SSC"
+      link: "https://github.com/SSC202"
+study_advice: []
+schedule: []
+related_links: []
+misc: []
