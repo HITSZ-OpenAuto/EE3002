@@ -1,0 +1,42 @@
+course_name = "电力电子技术"
+course_code = "EE3002"
+
+notices = ""
+
+[[lecturers]]
+name = "王明彦"
+  [[lecturers.reviews]]
+  content = "讲课一般，经常讲一大堆别的东西之后再开始上课。十分注重考勤，但是没有平时分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "李成睿"
+  [[lecturers.reviews]]
+  content = "……"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "王丹丹"
+  [[lecturers.reviews]]
+  content = "实验报告要求十分高（毕设级别要求），很难拿分，建议十分认真的写。"
+  author = { name = "", link = "", date = "" }
+
+textbooks = []
+
+online_resources = []
+
+course = []
+
+[[exam]]
+content = "考试基本是大背诵的概念题，但是需要注意细节，PPT 建议反复看。"
+author = { name = "SSC", link = "https://github.com/SSC202", date = "2024-11-01" }
+
+lab = []
+
+advice = []
+
+schedule = []
+
+related_links = []
+
+misc = []
