@@ -1,13 +1,14 @@
 course_name = "电力电子技术"
-repo_type = "normal"
 course_code = "EE3002"
-
+repo_type = "normal"
 description = "第 5 版和第 6 版教材并无太大区别，但是部分细节老师会以第 6 版为准，使用第 5 版教材的同学注意看老师的 PPT 即可。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "王明彦"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 讲课一般，经常讲一大堆别的东西之后再开始上课。
 22 级十分注重考勤，但是没有平时分。23 级不太考勤，整学期只点过三次名，且后两次主要点第一次点到没来的同学。
@@ -15,16 +16,15 @@ content = """
 """
 author = { name = "", link = "", date = "" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王丹丹"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 22 级：实验报告要求十分高（毕设级别要求），很难拿分，建议十分认真的写。
 23 级：实验整体给分较高。
 """
 author = { name = "", link = "", date = "" }
-
 
 [[sections]]
 title = "教材"

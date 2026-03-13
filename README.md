@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 王明彦
   <!-- TOML-ITEM: id="review-王明彦-1" has_author="true" -->
   - 讲课一般，经常讲一大堆别的东西之后再开始上课。
