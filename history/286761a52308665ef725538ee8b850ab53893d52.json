@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814553,
+    "hash": "6f8e4d9e1feadc0855621f0933d2625c22da1ea8"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  },
+  "README.md": {
+    "size": 4420,
+    "time": 1791961440,
+    "hash": "286761a52308665ef725538ee8b850ab53893d52"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  },
+  "exams/2024秋季电力电子技术期末试题（回忆版）.pdf": {
+    "size": 94906,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "exams/2024秋电力电子技术期中考回忆版.pdf": {
+    "size": 71453,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "exams/2025秋电力电子技术期末试题（回忆版）.pdf": {
+    "size": 163383,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "exams/2025秋电力电子技术阶段测试（回忆版）.pdf": {
+    "size": 1283729,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  },
+  "labs/2024秋SSC/电力电子技术实验报告-实验一.pdf": {
+    "size": 8296579,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2024秋SSC/电力电子技术实验报告-实验三.pdf": {
+    "size": 2161200,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2024秋SSC/电力电子技术实验报告-实验二.pdf": {
+    "size": 2446296,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2025秋Gaster/电力电子技术实验1报告.pdf": {
+    "size": 747270,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2025秋Gaster/电力电子技术实验2报告.pdf": {
+    "size": 554075,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2025秋Gaster/电力电子技术实验3报告.pdf": {
+    "size": 1471472,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "labs/2025秋Gaster/电力电子技术实验4报告.pdf": {
+    "size": 1551407,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  },
+  "notes/2024秋电力电子技术期中复习-zsa.pdf": {
+    "size": 9774115,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "notes/2024秋电力电子技术笔记-SSC.pdf": {
+    "size": 31006621,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "notes/2024秋电力电子期末复习-zsa.pdf": {
+    "size": 12723009,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "notes/2025秋电力电子技术期中笔记-Gaster.pdf": {
+    "size": 3806058,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "notes/2025秋电力电子技术笔记-Gaster.pdf": {
+    "size": 42250960,
+    "time": 1768404491,
+    "hash": "5d18cc17ed07aa56b01c405c836414c51290ab3c"
+  },
+  "readme.toml": {
+    "size": 4393,
+    "time": 1773547900,
+    "hash": "b2ec1a9af6c5d7eedb04baba11ba9d41e7e927e3"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1751009795,
+    "hash": "3d41a0f6d010f377fd886c87e8fabd839875cb00"
+  }
+}
