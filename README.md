@@ -1,11 +1,5 @@
 # EE3002 - 电力电子技术
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期中考试20%](https://img.shields.io/badge/期中考试-20%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 ## 授课教师
 
